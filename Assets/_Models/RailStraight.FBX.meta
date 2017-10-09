@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: b1af2d9f5088d9f4fb08f9358557e64f
+timeCreated: 1507474859
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arc001
+    100002: ArcSharp002
+    100004: Cup
+    100006: RaiCurve45Piece
+    100008: RaiCurve45SpeedPiece
+    100010: RaiCurve45TwistPiece
+    100012: RaiCurveSharpVert45Piece
+    100014: //RootNode
+    100016: RailStraight45TwistCounterPiece
+    100018: RailStraight45TwistPiece
+    100020: RailStraightPiece
+    100022: RailStraightPiece001
+    100024: RailStraightShortPiece
+    100026: ReferenceBall
+    100028: ReferenceSmoothTurn
+    400000: Arc001
+    400002: ArcSharp002
+    400004: Cup
+    400006: RaiCurve45Piece
+    400008: RaiCurve45SpeedPiece
+    400010: RaiCurve45TwistPiece
+    400012: RaiCurveSharpVert45Piece
+    400014: //RootNode
+    400016: RailStraight45TwistCounterPiece
+    400018: RailStraight45TwistPiece
+    400020: RailStraightPiece
+    400022: RailStraightPiece001
+    400024: RailStraightShortPiece
+    400026: ReferenceBall
+    400028: ReferenceSmoothTurn
+    2300000: Cup
+    2300002: RaiCurve45Piece
+    2300004: RaiCurve45SpeedPiece
+    2300006: RaiCurve45TwistPiece
+    2300008: RaiCurveSharpVert45Piece
+    2300010: RailStraight45TwistCounterPiece
+    2300012: RailStraight45TwistPiece
+    2300014: RailStraightPiece
+    2300016: RailStraightPiece001
+    2300018: RailStraightShortPiece
+    2300020: ReferenceBall
+    2300022: ReferenceSmoothTurn
+    2300024: //RootNode
+    3300000: Cup
+    3300002: RaiCurve45Piece
+    3300004: RaiCurve45SpeedPiece
+    3300006: RaiCurve45TwistPiece
+    3300008: RaiCurveSharpVert45Piece
+    3300010: RailStraight45TwistCounterPiece
+    3300012: RailStraight45TwistPiece
+    3300014: RailStraightPiece
+    3300016: RailStraightPiece001
+    3300018: RailStraightShortPiece
+    3300020: ReferenceBall
+    3300022: ReferenceSmoothTurn
+    3300024: //RootNode
+    4300000: ReferenceBall
+    4300002: RailStraightPiece
+    4300004: RaiCurve45Piece
+    4300006: ReferenceSmoothTurn
+    4300008: RailStraightShortPiece
+    4300010: RaiCurveSharpVert45Piece
+    4300012: RailStraight45TwistPiece
+    4300014: RailStraightPiece001
+    4300016: RailStraight45TwistCounterPiece
+    4300018: RaiCurve45SpeedPiece
+    4300020: RaiCurve45TwistPiece
+    4300022: Cup
+    6400000: //RootNode
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
